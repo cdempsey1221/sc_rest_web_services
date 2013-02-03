@@ -1,0 +1,5 @@
+com\shakercafe\service\invoice\impl\InvoiceManagementServiceImpl.class
+com\shakercafe\service\invoice\InvoiceManagementService.class
+com\shakercafe\service\config\ServiceConfig.class
+com\shakercafe\service\vendor\impl\VendorManagementServiceImpl.class
+com\shakercafe\service\vendor\VendorManagementService.class
